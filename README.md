@@ -2,6 +2,7 @@
 Developing and testing models for a live AI-powered anonymiser application to reduce bias during interviews
 
 **preprocessing.ipynb**, **partitioning.ipynb** I used to preprocess and partition the CelebA dataset to be used at a later stage
+
 **CNN.ipynb** contains race classifier model training (and preprocessing of  **FairFace** dataset)
 
 ---
